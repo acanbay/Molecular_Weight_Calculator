@@ -2,6 +2,3 @@ Distance Traveled	Molecular Weight (Da)
 0.5			97000
 0.6			66000
 0.9			45000
-1.4			31000
-2.2			21000
-2.8			14000
