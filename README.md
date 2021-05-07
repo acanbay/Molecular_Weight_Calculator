@@ -8,7 +8,8 @@ A tool that finds the mass of molecules according to the travel distances in the
 2. Write the distance measurements of molecules whose masses you do not know into search.txt.
 3. Run the MW_Calc program.
     * For Windows, double click MW_Calc.exe.
-    * For Linux, run the 
+    * For Linux, run the
+  
             ./MW_Calc 
       command by terminal.
 4. The results will appear on the screen. At the same time, a file named output.txt with the results will be created in the same directory.
