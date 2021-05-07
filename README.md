@@ -14,9 +14,9 @@ A tool that finds the mass of molecules according to the travel distances in the
       command by terminal.
 4. The results will appear on the screen. At the same time, a file named output.txt with the results will be created in the same directory.
       
-<b>Caution! :</b> input.txt, search.txt and MW_Calc/MW_Calc.exe must be in the same folder.
+<b><u>Caution! :</b></u> input.txt, search.txt and MW_Calc/MW_Calc.exe must be in the same folder.
 
-<b>Making the program executable for Linux and MacOS:</b>
+<b><u>Making the program executable for Linux and MacOS:</b></u>
 If you get an error like MW_Calc is not executable, run the code below to to make it executable.:
 
         chmod +x MW_Calc
